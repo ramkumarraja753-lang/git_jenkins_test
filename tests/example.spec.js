@@ -20,3 +20,4 @@ test('get started link', async ({ page }) => {
 //tested
 //test1
 //test2
+//test3
